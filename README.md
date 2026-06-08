@@ -1,16 +1,47 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Dipesh Jadhav</h1>
 
-<!--
-**dipeshjadhav93/dipeshjadhav93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Healthcare Data Analyst | Power BI Developer | SQL | Python
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&center=true&vCenter=true&lines=Healthcare+Data+Analyst;Power+BI+Developer;SQL+%7C+Python+%7C+Excel;Open+to+Work"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 🚀 About Me
+
+- 📊 Healthcare Data Analyst
+- 📈 Power BI Dashboard Developer
+- 🐍 Learning Python & SQL
+- 📍 Maharashtra, India
+- 🎯 Open to Work
+
+---
+
+# 🛠 Skills
+
+- Power BI
+- SQL
+- Python
+- Excel
+- Pandas
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=dipeshjadhav93&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dipeshjadhav93&theme=tokyonight"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+📧 dipeshjadhavd@gmail.com
