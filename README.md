@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Dipesh Jadhav</h1>
+<p align="center">
+  <img src="banner.png" width="100%" />
+</p> <h1 align="center">Hi 👋, I'm Dipesh Jadhav</h1>
 
 <h3 align="center">
 Healthcare Data Analyst | Power BI Developer | SQL | Python
